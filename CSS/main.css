@@ -91,7 +91,6 @@ h2 {
   background: #ddd;
   background-color: #102135;
   color: rgb(236, 234, 234);
-  padding: 20px;
 }
 
 .footer div h1 {
@@ -121,12 +120,13 @@ h2 {
   padding: 10px;
   border: 5px solid gray;
   margin: 20px auto;
+  
 }
 
 .overlay {
   position: absolute;
-  top: 0cm;
-  left: 7cm;
+  top: 0px;
+  left: 265px;
   width: 60%;
   height: 100%;
   background-color: rgba(0, 0, 0, 0.5); /* Cor preta com transparência */
